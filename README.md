@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/foto-github-eja.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=fb6cb075-e593-4808-b79e-5f883a41e807)](https://masreza.com)
 <h1 align="center">Hi 👋, I'm Reza Putra Nurhudaya</h1>
 <h3 align="center">I am now focusing on the Network Section and want to learn a little programming language, I come from Indonesia</h3>
-<img align-"right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align-"center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masreza354&label=Profile%20views&color=0e75b6&style=flat" alt="masreza354" /> </p>
 
