@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masreza354&label=Profile%20views&color=0e75b6&style=flat" alt="masreza354" /> </p>
 <p align="left"> <a href="https://twitter.com/rezaputran3" target="blank"><img src="https://img.shields.io/twitter/follow/rezaputran3?logo=twitter&style=for-the-badge" alt="Mas_Reza_354"  </p>
 
-- 🔭 I’m currently working on **Class and Portfolio Web Projects**
+- 🔭 I'm currently busy on **Courses to add to my portfolio**
 
-- 🌱 I’m currently learning **PHP & Mysql, React, Tailwind.**
+- 🌱 I’m currently learning **Javascript & PHP, React.**
 
 - 💬 Ask me about **Networking**
 
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/reza putra nurhudaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza putra nurhudaya" height="30" width="40" /></a>
 <a href="https://fb.com/mas reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mas reza" height="30" width="40" /></a>
 <a href="https://instagram.com/ejaa.354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ejaa.354" height="30" width="40" /></a>
-<a href="https://discord.gg/mas_reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mas_reza" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/572108928838795270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mas_reza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
